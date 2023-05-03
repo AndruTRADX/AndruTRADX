@@ -3,7 +3,6 @@
 #### Mi nombre es Andrés Esteban Rodríguez, amante de la tecnoligía, el metal, los videojuegos y el anime (a veces jaja).
 
 - 🌱 Estoy aprendiendo todo lo relacionado a backend para ser un futuro fullstack.
-- 💬 Preguntame acerca de propuestas de trabajo, videojuegos y musica fuerte.
 - ⚡ Pasatiempos: Anime, Videojuegos, Estudiar (en serio, lo prometo), Música y Ejercicio (en serio, también lo prometo). 
 
 <!--
