@@ -1,14 +1,14 @@
-# <div align="left">Hola ✋, Soy Andrés Esteban Rodríguez, fullstack developer apasionado por el mundo de la tecnología 💻💜.</div>  
+# <div align="center">Hola ✋, Soy Andrés Esteban Rodríguez, fullstack developer apasionado por el mundo de la tecnología 💻💜.</div>  
+
+<br/>  
 
 <div>
   <ul>
-    <li>❓ Preguntame lo que quieras sobre el stack MERN</li>
-    <li>🎮 Me encantan los videojuegos, la música y el anime</li>
+    <li>❓ Preguntame lo que quieras sobre el stack MERN.</li>
+    <li>🎮 Me encantan los videojuegos, la música y el anime.</li>
+    <li>👻 Puedes contactar conmigo y conocernos.</li>
+    <li><a href="https://andrutradx.github.io/portfolio/" target="about_blank">💻 Puedes ver mi portafolio dando click acá.</a></li>
   </ul>
-
-  <div style="width: 40%" align="center">
-    <img src="https://i.ibb.co/YhcwLTb/DALL-E-2023-04-18-16-46-27-A-cool-cat-with-a-sweater-writting-code-in-a-macbook.png" align="center" alt="Gatito programador :3">
-  </div>  
 </div>
 
 <br/>  
@@ -74,14 +74,11 @@
 <br/>  
 
 ## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndruTRADX&hide_border=true&layout=compact" align="right" /></div>  
+![](https://github-readme-stats.vercel.app/api?username=AndruTRADX&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AndruTRADX&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndruTRADX&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AndruTRADX&show_icons=true&count_private=true&hide_border=true" align="left" /></div>
-
-<br/> 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AndruTRADX&&style=flat-square" align="center" />
-</div> 
+---
+[![](https://visitcount.itsvg.in/api?id=AndruTRADX&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br />
