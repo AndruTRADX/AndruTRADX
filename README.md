@@ -7,7 +7,7 @@
     <li>❓ Preguntame lo que quieras sobre el stack MERN.</li>
     <li>🎮 Me encantan los videojuegos, la música y el anime.</li>
     <li>👻 Puedes contactar conmigo y conocernos.</li>
-    <li><a href="https://andrutradx.github.io/portfolio/" target="about_blank">💻 Puedes ver mi portafolio dando click acá.</a></li>
+    <li><a href="https://andrutradx.vercel.app" target="about_blank">💻 Puedes ver mi portafolio dando click acá.</a></li>
   </ul>
 </div>
 
