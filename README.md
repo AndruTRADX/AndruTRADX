@@ -1,15 +1,15 @@
-# <div align="center">Hola ✋, Soy Andrés Esteban Rodríguez, fullstack developer apasionado por el mundo de la tecnología 💻💜.</div>  
+# Hi there! ✋
+
+I'm Andrés Esteban Rodríguez, a passionate fullstack developer in the technology world 💻💜.
 
 <br/>  
 
-<div>
-  <ul>
-    <li>❓ Preguntame lo que quieras sobre el stack MERN.</li>
-    <li>🎮 Me encantan los videojuegos, la música y el anime.</li>
-    <li>👻 Puedes contactar conmigo y conocernos.</li>
-    <li><a href="https://andrutradx.vercel.app" target="about_blank">💻 Puedes ver mi portafolio dando click acá.</a></li>
-  </ul>
-</div>
+- ❓ Ask me anything about the MERN Stack.
+- 🎮 I love playing video games, listening to music, and watching anime.
+- 👻 You can contact me and get to know us.
+- 💻 [You can see my portfolio by clicking here.](https://andrutradx.vercel.app)
+
+<br/>  
 
 <br/>  
 
