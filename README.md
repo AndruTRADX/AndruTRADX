@@ -1,6 +1,6 @@
 # Hi there! ✋
 
-I'm Andrés Esteban Rodríguez, a passionate fullstack developer in the world of technology 💻💜.
+I'm Andrés Rodríguez, a passionate fullstack developer in the world of technology 💻💜.
 
 <br/>  
 
