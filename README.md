@@ -8,18 +8,4 @@ I'm Andrés Rodríguez, a passionate fullstack developer in the world of technol
 - 👻 You can contact me and get to know us, not just for business.
 - 💻 [You can see my portfolio by clicking here.](https://andrutradx.vercel.app)
 
-  
-<br/>  
-
-## Github Stats  
-![](https://github-readme-stats.vercel.app/api?username=AndruTRADX&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndruTRADX&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndruTRADX&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AndruTRADX&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=AndruTRADX&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <br />
