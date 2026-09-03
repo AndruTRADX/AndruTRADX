@@ -2,11 +2,6 @@
 
 <h3 align="center">Full-Stack Developer from Colombia 🇨🇴</h3>
 
-<p align="center">
-  Building backends with <b>.NET / C#</b> and frontends with <b>React + TypeScript</b>.
-  <br/>
-</p>
-
 <br/>
 
 - 🎮 Outside of code: video games, music, and anime.
