@@ -10,12 +10,12 @@
 <br/>
 
 - 🎮 Outside of code: video games, music, and anime.
-- 💻 Check out my portfolio → **[andrutradx.vercel.app](https://andrutradx.vercel.app)**
+- 💻 Check out my portfolio → [andrutradx.vercel.app](https://andrutradx.vercel.app)
 - 👻 Want to chat, jam on a side project, or play something together? Ping me on Discord (details below).
 
 <br/>
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -31,19 +31,19 @@
 
 <br/>
 
-## 🚀 Featured Projects
+🚀 Featured Projects
 
 | Project | Description |
 |---|---|
-| **[Woodshed](https://github.com/AndruTRADX)** | Music-focused social platform · Clean Architecture · .NET/C#, MediatR, EF Core *(in active development)* |
-| **[Reactivities-App](https://github.com/AndruTRADX/Reactivities-App)** | Full-stack activities app built with DDD & Clean Architecture patterns |
-| **[Reactivities-Api](https://github.com/AndruTRADX/Reactivities-Api)** | .NET API backing Reactivities-App |
-| **[docker_cat_blog](https://github.com/AndruTRADX/docker_cat_blog)** | Dockerized blog project |
-| **[realtime-chat-python](https://github.com/AndruTRADX/realtime-chat-python)** | Real-time chat app in Python |
+| [Woodshed](https://github.com/AndruTRADX) | Music-focused social platform · Clean Architecture · .NET/C#, MediatR, EF Core (in active development) |
+| [Reactivities-App](https://github.com/AndruTRADX/Reactivities-App) | Full-stack activities app built with DDD & Clean Architecture patterns |
+| [Reactivities-Api](https://github.com/AndruTRADX/Reactivities-Api) | .NET API backing Reactivities-App |
+| [docker_cat_blog](https://github.com/AndruTRADX/docker_cat_blog) | Dockerized blog project |
+| [realtime-chat-python](https://github.com/AndruTRADX/realtime-chat-python) | Real-time chat app in Python |
 
 <br/>
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=AndruTRADX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=AndruTRADX&theme=dark&hide_border=false)
@@ -51,12 +51,12 @@
 
 <br/>
 
-## 📫 Let's Connect
+📫 Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://andrutradx.vercel.app)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/478386287032795146)
 
-> **Heads up:** Discord is for chatting and side projects — not business inquiries. For professional/business matters, please reach out via LinkedIn instead.
+> Heads up: Discord is for chatting and side projects - not business inquiries. For professional/business matters, please reach out via LinkedIn instead.
 
 <br/>
 
