@@ -4,6 +4,7 @@
 
 <br/>
 
+About me:
 - 🎮 Outside of code: video games, music, and anime.
 - 💻 Check out my portfolio → [andrutradx.vercel.app](https://andrutradx.vercel.app)
 - 👻 Want to chat, jam on a side project, or play something together? Ping me on Discord (details below).
