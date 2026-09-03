@@ -1,6 +1,6 @@
 # Hi there! ✋
 
-I'm Andrés Rodríguez, a passionate fullstack developer in the world of technology 💻💜.
+I'm Andrés Rodríguez, a passionate fullstack developer from Colombia 🇨🇴 who loves writing code.
 
 <br/>  
 
