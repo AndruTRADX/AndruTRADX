@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Andrés 👋</h1>
+<h1 align="center">Hi there, I'm Andrés :3</h1>
 
 <h3 align="center">Full-Stack Developer from Colombia 🇨🇴</h3>
 
@@ -56,7 +56,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://andrutradx.vercel.app)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/478386287032795146)
 
-> Heads up: Discord is for chatting and side projects - not business inquiries. For professional/business matters, please reach out via LinkedIn instead.
+> Heads up: Discord is for chatting and side projects: not business inquiries. For professional/business matters, please reach out via LinkedIn instead.
 
 <br/>
 
